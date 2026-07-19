@@ -1,0 +1,2 @@
+# Paste the setup code from the PiLink app (Settings -> Offline alerts -> Set up).
+SENTINEL_SECRET=paste-the-code-from-the-pilink-app

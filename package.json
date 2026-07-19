@@ -1,0 +1,6 @@
+{
+  "name": "pilink-sentinel-worker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A free dead man's switch that tells you when your Raspberry Pi goes offline."
+}

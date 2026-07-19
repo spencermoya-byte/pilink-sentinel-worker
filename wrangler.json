@@ -1,0 +1,14 @@
+{
+  "name": "pilink-sentinel-worker",
+  "main": "./worker.js",
+  "compatibility_date": "2025-10-08",
+  "triggers": {
+    "crons": ["* * * * *"]
+  },
+  "kv_namespaces": [
+    {
+      "binding": "SENTINEL",
+      "id": "ba01d29f742345aebf62f73c709a78b0"
+    }
+  ]
+}
